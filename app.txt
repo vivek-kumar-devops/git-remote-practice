@@ -1,1 +1,1 @@
-Local developer change
+Remote version for conflict
