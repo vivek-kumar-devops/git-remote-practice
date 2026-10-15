@@ -1,1 +1,5 @@
+ 
 Remote version for conflict
+ 
+Local change for conflict practice
+ 
