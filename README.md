@@ -1,5 +1,1 @@
-Git Remote Practice
-
-Remote change for conflict practice
-
-Change by another developer
+Remote version for conflict
