@@ -1,1 +1,1 @@
-Learning Git Remote
+Learning Git Remote - Day 2
